@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">otgEnabler</string>
+    <string name="app_definition">Enables OTG for Samsung Galaxy S3 Neo. Thanks for method to yk1999 from xda.</string>
+    <string name="how_to">Instruction:
+        First plug in your otg cable, don\'t connect anything in the other side of otg cable for now. Then enable otg. Wait 2 second, then connect your usb device to otg cable. And your otg device will get power from phone.\nWARNING: When you are done using otg, disable otg. Don\'t forget it or your phone will not charge while connected to charger.</string>
+    <string name="switch_otg">OTG</string>
+</resources>
